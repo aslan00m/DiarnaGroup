@@ -1,0 +1,6 @@
+{
+  "name": "ديارنا الحديثة للاستثمار",
+  "description": "شركة ديارنا الحديثة للاستثمار - حلول متكاملة للمعدات الثقيلة، الحجر والواجهات، الرخام، والمقاولات في المملكة العربية السعودية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
